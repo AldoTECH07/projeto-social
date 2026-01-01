@@ -33,3 +33,12 @@ section#telefone {
     width: 365px;
     background: url(../imagens/iphone17.png) no-repeat;
 }
+
+iframe#tela {
+    position: relative;
+    top: 13px;
+    left: 15px;
+    height: 725px;
+    width: 335px;
+    border-radius: 50px;
+}
